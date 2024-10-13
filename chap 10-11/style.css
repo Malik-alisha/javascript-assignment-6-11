@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table, th, td {
+    border-collapse: collapse;
+    padding: 10px;
+}
+table {
+    width: 30%;
+    height: 30px;
+    margin: 10px;
+}
+th {
+    color: rgb(0, 0, 0);
+    
+}
+td {
+    color: rgb(2, 38, 77);
+    
+} 
+.red {
+     background-color: rgb(20, 102, 209); 
+}
